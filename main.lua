@@ -85,7 +85,7 @@ local function sendWebhook(globalCount, userCount)
     local data = {
         ["content"] = "",
         ["embeds"] = {{
-            ["title"] = "🚀 Nova Script Executed!",
+            ["title"] = "🚀 Synex-Hub Script Executed!",
             ["description"] = "A user has successfully executed the script.",
             ["color"] = 65535,
             ["fields"] = {
@@ -119,7 +119,7 @@ local function sendFeedback(msg)
     local data = {
         ["content"] = "",
         ["embeds"] = {{
-            ["title"] = "💡 Nova Script Feedback / Idea",
+            ["title"] = "💡 Synex-Hub Script Feedback / Idea",
             ["description"] = "A user has submitted feedback.",
             ["color"] = 16776960,
             ["fields"] = {
