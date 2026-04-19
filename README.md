@@ -1,2 +1,2 @@
 # Synex-Hub
-Synex-Hub is the most powerful hub out there m
+Synex-Hub is the most powerful hub out there 
